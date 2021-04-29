@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HibernationHarvest/static/css/main.62139cfc.chunk.css",
-    "main.js": "/HibernationHarvest/static/js/main.ad784a64.chunk.js",
-    "main.js.map": "/HibernationHarvest/static/js/main.ad784a64.chunk.js.map",
+    "main.js": "/HibernationHarvest/static/js/main.bc22b15e.chunk.js",
+    "main.js.map": "/HibernationHarvest/static/js/main.bc22b15e.chunk.js.map",
     "runtime-main.js": "/HibernationHarvest/static/js/runtime-main.96f2aab1.js",
     "runtime-main.js.map": "/HibernationHarvest/static/js/runtime-main.96f2aab1.js.map",
     "static/js/2.50be3979.chunk.js": "/HibernationHarvest/static/js/2.50be3979.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.96f2aab1.js",
     "static/js/2.50be3979.chunk.js",
     "static/css/main.62139cfc.chunk.css",
-    "static/js/main.ad784a64.chunk.js"
+    "static/js/main.bc22b15e.chunk.js"
   ]
 }
